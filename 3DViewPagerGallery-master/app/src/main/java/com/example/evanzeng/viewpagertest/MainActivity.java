@@ -14,7 +14,14 @@ import com.example.evanzeng.viewpagertest.util.ImageUtil;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 类描述:
+ * 创建人:   tangchao
+ * 创建时间:  2017/3/17 10:32
+ * 修改人:    tangchao
+ * 修改时间: 2017/3/17 10:32
+ * 修改备注:  [说明本次修改内容]
+ */
 public class MainActivity extends AppCompatActivity {
     //注释1qwehasdh
 
