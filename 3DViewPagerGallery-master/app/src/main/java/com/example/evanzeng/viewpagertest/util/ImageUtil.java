@@ -13,7 +13,12 @@ import android.graphics.PorterDuffXfermode;
 import android.graphics.Shader;
 
 /**
- * Created by Administrator on 2016/8/20.
+ * 类描述: 图片工具类
+ * 创建人:   tangchao
+ * 创建时间:  2017/3/17 10:35
+ * 修改人:    tangchao
+ * 修改时间: 2017/3/17 10:35
+ * 修改备注:  [说明本次修改内容]
  */
 
 public class ImageUtil {
