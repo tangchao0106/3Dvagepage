@@ -30,4 +30,6 @@ public class ReverseImageActivity extends AppCompatActivity {
     //用啊
 
     //主线程里面修改
+    //啊
+    //git checkout -b feature-vulcan
 }
